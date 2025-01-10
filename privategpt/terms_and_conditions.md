@@ -18,13 +18,13 @@ Welcome to PrivateGPT, the confidential GPT solution provided by NeuralNet Solut
 
 2.2. Features include multilingual conversations, various integration modules, personalized tools, and access to our extensive Language Model Zoo for different industry applications.
 
-3. **Eligibility for Use and Access**
+3. **Confidentiality and Data Privacy**
 
-3.1. Although PrivateGPT is primarily designed for use by companies and organizations, we may choose to provide free access to certain individuals or entities at our discretion.
+3.1. **WE WILL NEVER USE YOUR DATA TO RETRAIN MODELS. OUR POLICY IS TO MAINTAIN THE CONFIDENTIALITY OF YOUR DATA AND PREVENT ANY ACCESS OR SHARING OF YOUR INFORMATION UNLESS REQUIRED BY LAW OR WITH YOUR EXPRESS CONSENT.**
 
-3.2. If we have chosen to provide free access to you, please note that this access is subject to these Terms and may be terminated or suspended by us at any time without notice. 
+3.2. For PrivateGPT, data security and confidentiality are top priorities. You can trust that your data will be processed in accordance with the highest standards and maximum care.
 
-3.3. We reserve the right to limit or restrict the services and features provided to individuals or entities who are not paying customers, or to limit the total amount of usage or output for such individuals or entities. 
+3.3. For further details on data privacy and cookies, please consult our Privacy Policy, which is incorporated by reference into these Terms.
 
 4. **Use of Service**
 
@@ -34,11 +34,17 @@ Welcome to PrivateGPT, the confidential GPT solution provided by NeuralNet Solut
 
 4.3. Integration and Customization: It is your responsibility to integrate PrivateGPT with your existing systems and customize it per your specific requirements.
 
-5. **Confidentiality and Data Privacy**
+5. **Access to PrivateGPT**
 
-5.1. **WE WILL NEVER USE YOUR DATA TO RETRAIN MODELS. OUR POLICY IS TO MAINTAIN THE CONFIDENTIALITY OF YOUR DATA AND PREVENT ANY ACCESS OR SHARING OF YOUR INFORMATION UNLESS REQUIRED BY LAW OR WITH YOUR EXPRESS CONSENT.**
+5.1. PrivateGPT is a product primarily designed for companies; however, we offer free access to the service to individuals and organizations for their personal, non-commercial use.
 
-5.2. For further details on data privacy and cookies, please consult our Privacy Policy, which is incorporated by reference into these Terms.
+5.2. By using the free version of PrivateGPT, you acknowledge that we may occasionally send you emails to gather feedback on the service, to advertise our products and services, and to inform you about any changes or updates to the service.
+
+5.3. You agree to receive such emails and understand that we use them to maintain and improve our service.
+
+5.4. We reserve the right to suspend or terminate your access to the free version of PrivateGPT if we decide to discontinue the free access program or limit it to specific users or groups.
+
+5.5. In such cases, you will be notified, and you may choose to upgrade to a paid plan to continue using the service.
 
 6. **Intellectual Property**
 
